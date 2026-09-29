@@ -1,0 +1,10 @@
+com\jfs\training\dao\AssetItemDAO.class
+com\jfs\training\exceptions\GlobalExceptionHandler.class
+com\jfs\training\AssetTrackApplication.class
+com\jfs\training\exceptions\InvalidAssetIdException.class
+com\jfs\training\bean\AssetItemBean.class
+com\jfs\training\dao\AssetItemDAOWrapper.class
+com\jfs\training\service\AssetItemService.class
+com\jfs\training\service\AssetItemServiceImpl.class
+com\jfs\training\controller\AssetItemController.class
+com\jfs\training\entity\AssetItemEntity.class
